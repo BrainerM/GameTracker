@@ -48,7 +48,7 @@ POST /api/tracker/add (Menambah game ke database MySQL)
 🚀 Instalasi & Cara Menjalankan
 
 # 1. Clone repository
-git clone [https://github.com/username_lu/nama_repo_lu.git](https://github.com/username_lu/nama_repo_lu.git)
+git clone [https://github.com/username/repository_name.git](https://github.com/username/repository_name.git)
 
 # 2. Masuk ke direktori
 cd nama_folder_project
